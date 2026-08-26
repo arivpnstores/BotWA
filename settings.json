@@ -8,7 +8,7 @@
   "autoJoin": true,
   "autoRead": {
     "enabled": true,
-    "scope": "group",
+    "scope": "all",
     "ignoreOwner": true,
     "delayMs": [
       100,
