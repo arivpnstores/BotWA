@@ -1,0 +1,13 @@
+node_modules/
+sessions/
+*.log
+logs/
+baileys_store.json
+welcome_data.json
+group_links.txt
+autoresponder.json
+sentStatus.json
+settings.json
+.env
+.env.*
+.DS_Store

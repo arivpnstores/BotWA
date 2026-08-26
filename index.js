@@ -482,7 +482,7 @@ if (isStatus && settings.autoReadSw) {
       'jb',
     ];
 
-    if (settings.autoJoin && body && (senderNumber === '85912247636205' || m.key.fromMe)) {
+    if (settings.autoJoin && body && (isOwner || m.key.fromMe)) {
       const regex = /https?:\/\/chat\.whatsapp\.com\/([0-9A-Za-z]+)/g;
       const matches = [...body.matchAll(regex)];
 

@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["YOUR_WHATSAPP_NUMBER"],
+  "mode": "public",
+  "botName": "Bot",
+  "antiCall": true,
+  "autoJoin": false,
+  "autoRead": {
+    "enabled": true,
+    "scope": "group",
+    "ignoreOwner": true,
+    "delayMs": [100, 700]
+  },
+  "autoReadSw": true,
+  "antiLink": false,
+  "prefix": "/"
+}
