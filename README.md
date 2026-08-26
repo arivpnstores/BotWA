@@ -52,7 +52,7 @@ WhatsApp Bot built with **Baileys** (multi-device) featuring modular command sys
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BotWA.git
+git clone https://github.com/arivpnstores/BotWA.git
 cd BotWA
 npm install
 ```
