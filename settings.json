@@ -1,0 +1,20 @@
+{
+  "ownerNumber": [
+    "85912247636205"
+  ],
+  "mode": "public", 
+  "botName": "ARI BOT",
+  "antiCall": true,
+  "autoJoin": true,
+  "autoRead": {
+    "enabled": true,
+    "scope": "group",
+    "ignoreOwner": true,
+    "delayMs": [
+      100,
+      700
+    ]
+  },
+  "autoReadSw": true,
+  "prefix": "/"
+}
