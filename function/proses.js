@@ -31,7 +31,7 @@ module.exports = {
 https://t.me/RAJA_VPN_STORE
 
 🛒 *Marketplace:*
-https://chat.whatsapp.com/EpYADSv2HIc8ICCVeVbCJf
+https://chat.whatsapp.com/HKikhhHRCJx0Mp3Zhvb03U
 ────────────────
 💡 *Powered By:* ${settings.botName}
 `;
